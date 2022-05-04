@@ -309,7 +309,6 @@ body._lock{
 	line-height: 1.5;
 	color: #7b588f;
 }
-
 ._item{
 	margin-right: 90px;
 }
@@ -551,6 +550,9 @@ body._lock{
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
+}
+.numb-one{
+	margin-right: 10px;
 }
 .text{
 	font-family: 'Gotham Pro', sans-serif;
